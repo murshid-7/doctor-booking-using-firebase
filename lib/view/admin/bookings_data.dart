@@ -42,7 +42,7 @@ class _SummaryScreenState extends State<SummaryScreen> {
         ),
       ),
       body: Padding(
-        padding: EdgeInsets.all(size.width * 0.04),
+        padding: EdgeInsets.all(size.width * 0.02),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
