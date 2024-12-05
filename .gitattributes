@@ -1,0 +1,2 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+assets/3uTools_v3.17.025_Setup_x86.exe filter=lfs diff=lfs merge=lfs -text
